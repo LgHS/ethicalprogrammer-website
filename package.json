@@ -1,0 +1,37 @@
+{
+    "title": "Ethical programmer website",
+    "name": "ethicalprogrammerwebsite",
+    "version": "1.0.0",
+    "description": "Ethical programmer website based on the template startbootstrap-scrolling-nav",
+    "keywords": [
+        "css",
+        "sass",
+        "html",
+        "responsive",
+        "theme",
+        "template"
+    ],
+    "homepage": "https://ethicalprogrammer.org",
+    "bugs": {
+        "url": "https://github.com/LgHS/ethicalprogrammer-website.git/issues",
+        "email": "feedback@startbootstrap.com"
+    },
+    "license": "MIT",
+    "author": "Start Bootstrap",
+    "contributors": [
+        "David Miller (http://davidmiller.io/)"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/LgHS/ethicalprogrammer-website.git"
+    },
+    "dependencies": {
+        "bootstrap": "4.1.1",
+        "jquery": "3.3.1",
+        "jquery.easing": "^1.4.1"
+    },
+    "devDependencies": {
+        "browser-sync": "2.24.5",
+        "gulp": "^3.9.1"
+    }
+}
